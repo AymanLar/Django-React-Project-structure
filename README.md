@@ -1,5 +1,7 @@
 # Django-React-Project-structure
 ## Backend Structure
+
+.
 ├──djangoproject
 |
 |__config
