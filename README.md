@@ -1,5 +1,6 @@
 # Django-React-Project-structure
 ## Backend Structure
+```
 
 .
 ├──djangoproject
@@ -31,13 +32,4 @@
 |
 |__manage.py
 |__gitignore
-
-
-  .
-    ├── build 
-    ├── docs 
-    ├── src 
-    ├── test 
-    ├── tools 
-    ├── LICENSE
-    └── README.md
+```
