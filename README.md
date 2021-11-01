@@ -33,3 +33,27 @@
 |__manage.py
 |__gitignore
 ```
+## Front-End Structure
+```
+├──djangoproject(React)
+|
+|__app
+|  |
+|  |__assests
+|  |  | 
+|  |  |__fonts
+|  |  |__images
+|  |
+|  |__components
+|  |  |__your components
+|  |__containers
+|  |  |__Your containers
+|  |__app.js
+|
+|
+|__README.md
+|
+|__package.json
+|__gitignore
+```
+
