@@ -1,12 +1,12 @@
 # Django-React-Project-structure
 
-### Project Setup
+### Project Setup :
 ```sh
 mkdir django-react
 cd django-react
   ```
   
-## Backend Structure
+## Backend Structure :
 ```
 .
 ├──djangoproject
