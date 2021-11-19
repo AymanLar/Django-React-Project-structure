@@ -1,12 +1,14 @@
 # Django-React-Project-structure
 
 ### Project Setup :
+
 ```sh
 mkdir django-react
 cd django-react
   ```
   
 ## Backend Structure :
+
 ```
 .
 ├──djangoproject
@@ -39,7 +41,9 @@ cd django-react
 |__manage.py
 |__gitignore
 ```
+
 ## Front-End Structure
+
 ```
 ├──djangoproject(React)
 |
@@ -62,6 +66,7 @@ cd django-react
 |__package.json
 |__gitignore
 ```
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
